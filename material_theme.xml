@@ -1,7 +1,16 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="63a9f1" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="compactMenus" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="accentMode" value="true" />
+    <option name="allowDataCollection" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="settingsSelectedTab" value="3" />
+    <option name="accentColor" value="009688" />
     <option name="userId" value="-86f1cda:1721d4863cd:-8000" />
     <option name="version" value="5.2.0" />
   </component>
