@@ -1,0 +1,16 @@
+<keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="FindInPath" />
+  <action id="GotoFile" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="Tool_External Tools_PHP FIxer">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+</keymap>
