@@ -1,17 +1,17 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="3ae956c7-ac2a-4e10-9af7-df8bd06acff8" name="PHP 7.4" home="/usr/local/Cellar/php/7.4.5_2/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="53150736-d0b6-4ce8-aebb-18859dac3bb4" name="PHP 7.4" home="/usr/local/Cellar/php/7.4.6_1/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.4.5_2/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.4.5_2/bin/php" path_separator=":" version="7.4.5">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.4.6_1/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.4.6_1/bin/php" path_separator=":" version="7.4.6">
           <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.4.5_2/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.4.6_1/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
